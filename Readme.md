@@ -89,7 +89,7 @@ GROQ_API_KEY = your_groq_key
 cd app
 streamlit run app.py
 ```
-⚠ **Note:** While loading the **Text-to-Speech model**, you may be prompted to accept a **non-commercial license** in the terminal.  
+##### ⚠ **Note:** While loading the **Text-to-Speech model**, you may be prompted to accept a **non-commercial license** in the terminal.  
 Type `y` and press **Enter** to proceed.
 ---
 ## 🎮 Usage Guide
