@@ -108,3 +108,16 @@ streamlit run app.py
 - Converts the response into speech
 #### 4️⃣ Listen to the AI-generated response 🎧
 
+---
+## 📚 References  
+
+This project utilizes a **multimodal sentiment analysis** approach inspired by the following research paper:  
+
+📄 **Beyond Silent Letters: Amplifying LLMs in Emotion Recognition with Vocal Nuances**  
+✍️ **Zehui Wu, Ziwei Gong, Lin Ai, Pengyuan Shi, Kaan Donbekci, Julia Hirschberg**  
+🏛️ **Department of Computer Science, Columbia University**  
+📧 {zw2804, zg2272, la2734, ps3391, kd2939}@columbia.edu, julia@cs.columbia.edu  
+
+🔗 [Link to the Research Paper] (https://arxiv.org/abs/2407.21315)  
+
+This paper explores **how vocal nuances (pitch, intensity, articulation rate, etc.) can enhance LLM-based emotion recognition**. Our sentiment analysis module adopts similar methodologies, converting vocal features into **natural language descriptions** to guide the **LLM in generating sentiment-aware responses**.
