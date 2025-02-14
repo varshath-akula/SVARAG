@@ -1,0 +1,17 @@
+openai-whisper
+numpy
+pandas
+praat-parselmouth
+groq
+python-dotenv
+langchain
+rank_bm25
+pypdf
+unstructured
+chromadb
+langchain-community
+unstructured[pdf]
+coqui-tts
+torch
+streamlit
+audio_recorder_streamlit
