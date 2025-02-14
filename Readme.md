@@ -12,7 +12,7 @@
 ---
 ## 📌 **Workflow Diagram**  
 **Architecture of the system**:
-![Workflow](Architecture.png)
+![Workflow](assets/Architecture.png)
 
 ---
 ## 🔑 **Key Features**
